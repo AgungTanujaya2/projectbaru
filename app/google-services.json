@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625602920603",
+    "project_id": "android-tv-d131f",
+    "storage_bucket": "android-tv-d131f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625602920603:android:7300d78de70a6746e9863e",
+        "android_client_info": {
+          "package_name": "com.example.androidtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625602920603-r0vvom53sbc8h90rrjpiictllnar82pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRxBK-G4YU1xWpYLV2fmnPPswylb32iXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625602920603-r0vvom53sbc8h90rrjpiictllnar82pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
